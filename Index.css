@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(86, 3, 3);
+    height: 2px;
+   }
+   h1{
+    color: aliceblue;
+    margin-bottom: 60px;
+   }
+   #logo{
+    padding: 30px;
+   }
+   #cup{
+    padding-top: 20px;
+   }
